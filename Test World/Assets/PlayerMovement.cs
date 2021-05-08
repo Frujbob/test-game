@@ -5,7 +5,6 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public CharacterController controller;
-    public Rigidbody rb;
 
     public float speed = 10f;
     void Update()
